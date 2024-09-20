@@ -1,2 +1,3 @@
-
-![text alternatiu](FOTO CXBNK.png).
+<p align="center">
+  <img src="/>
+</p>
